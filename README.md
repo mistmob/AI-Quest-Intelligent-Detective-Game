@@ -67,4 +67,25 @@ The player investigates a case while the underlying AI system analyzes the avail
                 📊 SCORE & ACCURACY
 
 
+<h2>🧠 Machine Learning Models</h2>
+
+<table>
+  <tr>
+    <th>Model</th>
+    <th>Role in AI QUEST</th>
+  </tr>
+  <tr>
+    <td>🧪 <strong>Naive Bayes</strong></td>
+    <td>Probabilistic classification of investigative text</td>
+  </tr>
+  <tr>
+    <td>📐 <strong>Logistic Regression</strong></td>
+    <td>Determines the classification of evidence</td>
+  </tr>
+  <tr>
+    <td>🌲 <strong>Random Forest</strong></td>
+    <td>Uses an ensemble of decision trees for classification</td>
+  </tr>
+</table>
+
 
