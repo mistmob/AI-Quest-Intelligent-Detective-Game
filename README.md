@@ -1,34 +1,70 @@
 # 🕵️ AI QUEST — Intelligent Detective Game
 
-### 🤖 AI-Powered Threat Investigation • 🎮 Interactive Gameplay • 📊 Data Analytics
+<p align="center">
+  <img src="screenshots/character_selection.png" alt="AI Quest Character Selection" width="850">
+</p>
 
-> **Investigate. Analyze. Decide. Solve the Case.**
+<p align="center">
+  <strong>An AI-powered interactive detective game combining mystery solving, machine learning, data analysis, and visualization.</strong>
+</p>
 
-AI QUEST is an interactive **AI-powered detective game** that combines **Artificial Intelligence, Machine Learning, Natural Language Processing, game mechanics, data visualization, and analytical decision-making** into a single desktop application.
-
-The player takes the role of a detective, investigates digital cases, examines evidence, interacts with characters, receives AI-assisted threat analysis, compares machine-learning predictions, and makes the final **SAFE / DANGEROUS** decision.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Tkinter-GUI-2C2C2C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white">
+</p>
 
 ---
 
-# 🕵️ About the Project
+## 🎮 About the Project
 
-AI QUEST was developed as a **major project** to demonstrate the practical integration of Artificial Intelligence and Machine Learning into an interactive software application.
+**AI QUEST — Intelligent Detective Game** is a major project that combines an interactive detective experience with **Artificial Intelligence, Machine Learning, data analysis, and visualization**.
 
-Instead of presenting machine learning only as a conventional prediction system, the project transforms the ML workflow into a **story-driven detective investigation**.
+The player takes on the role of a detective and progresses through investigations by examining clues, interacting with characters, analyzing evidence, and making decisions.
 
-The player progresses through investigation missions, evaluates evidence, observes AI predictions from multiple models, and uses both machine-generated analysis and human judgment to solve cases.
+The project transforms machine-learning concepts into an interactive application where the player can experience AI-assisted investigation rather than simply viewing model outputs in a conventional interface.
 
-### 🎯 Core Idea
+---
+
+## 🕵️ The Concept
+
+The core idea is to combine:
+
+**Detective Gameplay + Artificial Intelligence + Machine Learning + Data Analytics**
+
+The player investigates a case while the underlying AI system analyzes the available evidence.
 
 ```text
-        🔎 INVESTIGATE
-              ↓
-        🧩 EXAMINE EVIDENCE
-              ↓
-        🤖 AI ANALYSIS
-              ↓
-        🧠 MODEL CONSENSUS
-              ↓
-        🕵️ DETECTIVE DECISION
-              ↓
-        🏆 SCORE & PROGRESS
+                    🕵️ DETECTIVE
+                         │
+                         ▼
+                 🔎 CASE / EVIDENCE
+                         │
+                         ▼
+                📝 TEXT PROCESSING
+                         │
+                         ▼
+                    TF-IDF
+                         │
+            ┌────────────┼────────────┐
+            ▼            ▼            ▼
+      Naive Bayes   Logistic      Random Forest
+                    Regression
+            │            │            │
+            └────────────┼────────────┘
+                         ▼
+                  🤖 AI ANALYSIS
+                         │
+                         ▼
+                  AI CONSENSUS
+                         │
+                         ▼
+               🧩 PLAYER DECISION
+                         │
+                         ▼
+                📊 SCORE & ACCURACY
+
+
+
